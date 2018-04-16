@@ -19,7 +19,8 @@ fmt_Sint: db "%d",0
 fmt_Slong: db "%lld",0
 fmt_Sfloat: db "%lf",0
 
-len: dq 0
+len: dq 0    
+
 
 section .bss
 
